@@ -1,8 +1,8 @@
 # single
 Good performance
-<<<<<<< HEAD
+
  # java Developer
-=======
+
  single
 package Pattern;
 
@@ -35,4 +35,4 @@ public class increasingpyaramet {
 }
 
 # git demo
->>>>>>> f0c5cd834b5170ebf5c1ba8a635937e83420f2da
+
