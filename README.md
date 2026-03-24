@@ -1,5 +1,6 @@
 # single
 Good performance
+ single
 package Pattern;
 
 public class increasingpyaramet {
@@ -29,3 +30,5 @@ public class increasingpyaramet {
 
 }
 }
+
+# git demo
